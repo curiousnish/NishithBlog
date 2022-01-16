@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PC on &lt;/Nishith&gt;</title>
+    <link>https://nishu8.github.io/NishithBlog/tags/pc/</link>
+    <description>Recent content in PC on &lt;/Nishith&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 Aug 2021 08:30:00 +0530</lastBuildDate><atom:link href="https://nishu8.github.io/NishithBlog/tags/pc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to make your Windows PC Faster and Smoother</title>
+      <link>https://nishu8.github.io/NishithBlog/posts/2021-08-08-making-windows-faster/</link>
+      <pubDate>Sun, 08 Aug 2021 08:30:00 +0530</pubDate>
+      
+      <guid>https://nishu8.github.io/NishithBlog/posts/2021-08-08-making-windows-faster/</guid>
+      <description>An article written by an eight year old PC to help it’s successors lead a better life.
+Windows 11 is on the horizon and most of the people are excited to get a worthy update, but not every PC in the market is eligible for Windows 11 upgrade (not even a 3 year old hardware) due to some security requirements which Microsoft thinks are crucial for running Windows 11. So, we have to run Windows 10 till these requirement issues are sorted out.</description>
+    </item>
+    
+  </channel>
+</rss>

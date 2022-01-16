@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on &lt;/Nishith&gt;</title>
+    <link>https://nishu8.github.io/NishithBlog/tags/python/</link>
+    <description>Recent content in Python on &lt;/Nishith&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Jan 2022 08:30:00 +0530</lastBuildDate><atom:link href="https://nishu8.github.io/NishithBlog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Vs. R… long lasting debate simplified</title>
+      <link>https://nishu8.github.io/NishithBlog/posts/2022-01-02-python-vs-r/</link>
+      <pubDate>Sun, 02 Jan 2022 08:30:00 +0530</pubDate>
+      
+      <guid>https://nishu8.github.io/NishithBlog/posts/2022-01-02-python-vs-r/</guid>
+      <description>What programming language to choose for Data Science and Machine Learning.
+This article won’t bore you with the stats of the most used programming language in a year or the languages that recruiters or companies prefer, because in order to get a great Data Science job, one must know both languages to some extent and really master one of the two.
+This article will try to help you to choose the language to start with or the one to master.</description>
+    </item>
+    
+  </channel>
+</rss>
