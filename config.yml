@@ -1,5 +1,5 @@
-baseURL: "https://nishu8.github.io/NishithBlog/"
-title: </Nishith>
+baseURL: "https://nishithblog.ml/"
+title: Nishith
 paginate: 5
 theme: PaperMod
 
@@ -147,9 +147,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Nishith's Blog"
+        Title: "Hey There 👋!"
         Content: >
-            Welcome to the blogpost of maintained by Nishith.
+            Welcome to the blogpost maintained by Nishith.
 
             - It is a place where I talk about Technology, Data Science, Machine Learning, PC and Life.
 
