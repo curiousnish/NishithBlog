@@ -8,7 +8,8 @@ on:
     #   - 'README.md'
     branches:
       - main
-  workflow_dispatch:
+  pull_requests:
+  # workflow_dispatch:
     # manual run
 
 jobs:
@@ -20,6 +21,7 @@ jobs:
         with:
           ref: main
           submodules: true
+          fetch-depth: 0
 
       - name: Get Theme
         run: git submodule update --init --recursive
